@@ -1,0 +1,10 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.form-control{
+  border-radius: 20px;
+  width: 950px;
+}
+.icono{
+  padding: 10px;
+}
